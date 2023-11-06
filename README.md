@@ -1,7 +1,6 @@
-# website-travel
-### https://siarheibalabanovich.github.io/website-travel/build/
+# The website travel agency.
 
-The website travel agency.
+### https://siarheibalabanovich.github.io/website-travel/build/
 
 ### Project Description
 This project is a dynamic website with elements of animation, ensuring smooth page loading and scrolling. It includes various elements that appear smoothly, creating an engaging user interface.
